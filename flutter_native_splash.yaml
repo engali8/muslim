@@ -3,4 +3,5 @@ flutter_native_splash:
   android: true
   ios: true
   fullscreen: true
+  background_image_dark: "assets/images/muslimDark.png"
   #dart run flutter_native_splash:create
